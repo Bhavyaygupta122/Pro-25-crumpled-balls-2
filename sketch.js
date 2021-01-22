@@ -29,10 +29,9 @@ function draw() {
   rectMode(CENTER);
   background(230);
  
-
+  paper.display();
   groundObject.display();
   dustbinObj.display();
-  paper.display();
 
 }
 
